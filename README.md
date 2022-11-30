@@ -1,9 +1,9 @@
 # Person instance segmentation and tracking
 
 <p align="middle">
+  <img src="./images/7.png" width="33%" />
   <img src="./images/3.png" width="33%" />
   <img src="./images/5.png" width="33%" />
-  <img src="./images/7.png" width="33%" />
 </p>
 
 <p align="middle">
