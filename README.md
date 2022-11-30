@@ -1,13 +1,18 @@
 # Person instance segmentation and tracking
 
 <p align="middle">
-  <img src="./images/3.png" width="25%" />
-  <img src="./images/7.png" width="25%" />
-  <img src="./images/s3.png" width="25%" />
-  <img src="./images/5.png" width="25%" />
+  <img src="./images/3.png" width="33%" />
+  <img src="./images/5.png" width="33%" />
+  <img src="./images/7.png" width="33%" />
+</p>
 
-  <img src="./images/4.png" width="50%" />
-  <img src="./images/m.png" width="50%" />
+<p align="middle">
+  <img src="./images/s3.png" width="45%" />
+  <img src="./images/4.png" width="45%" />
+</p>
+
+<p align="middle">
+  <img src="./images/m.png" align="center" />
 </p>
 
 <p align="middle">
