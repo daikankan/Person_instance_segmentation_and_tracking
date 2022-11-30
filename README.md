@@ -16,8 +16,8 @@
 </p>
 
 <p align="middle">
-  <img src="./gif/v2.gif" width="50%" />
-  <img src="./gif/v3.gif" width="50%" /> 
+  <img src="./gif/v2.gif" width="45%" />
+  <img src="./gif/v3.gif" width="45%" /> 
 
   <img src="./gif/v4.gif" align="center" />
 
